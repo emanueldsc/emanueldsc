@@ -1,8 +1,8 @@
 # Olá Sou Emanuel Douglas
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emanueldsc)](https://github.com/emanueldsc)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emanueldsc)](https://github.com/emanueldsc)
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femanueldouglas%2F
+[![Github Badge](https://img.shields.io/badge/-Linkedin?style=flat-square&logo=linkedin&logoColor=white&link=https://github.com/emanueldsc)](https://www.linkedin.com/in/emanueldouglas/)
+
 
 Sou estudante de computação tenho afinidade com tecnologias webs, javascript, php etc. 
 Sigo progredindo com meus estudos com intuito de trabalhar na área de DataScienc com análise preditiva e inteligência artificial.
