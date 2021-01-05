@@ -1,8 +1,8 @@
 # Olá Sou Emanuel Douglas
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emanueldsc)](https://github.com/emanueldsc)
-[![Github Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white&link=https://github.com/emanueldsc)](https://www.linkedin.com/in/emanueldouglas/)
-[![Github Badge](https://img.shields.io/badge/-email-db4a39?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/emanueldsc)](https://www.linkedin.com/in/emanueldouglas/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/emanueldsc)
+[![Github Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanueldouglas/)
+[![Github Badge](https://img.shields.io/badge/-email-db4a39?style=flat-square&logo=gmail&logoColor=white)](mailto:emanuel.douglas.sc@gmail.com)
 
 
 Sou estudante de computação tenho afinidade com tecnologias webs, javascript, php etc. 
