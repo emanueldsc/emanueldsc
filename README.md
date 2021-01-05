@@ -1,6 +1,6 @@
 # Olá Sou Emanuel Douglas
 
-(https://badgen.net/badge/:subject/:status/:color?icon=github)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 
 Sou estudante de computação tenho afinidade com tecnologias webs, javascript, php etc. 
 Sigo progredindo com meus estudos com intuito de trabalhar na área de DataScienc com análise preditiva e inteligência artificial.
