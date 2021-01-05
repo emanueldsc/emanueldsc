@@ -5,9 +5,9 @@ Sigo progredindo com meus estudos com intuito de trabalhar na área de DataScien
 
 ## Já tive esperiência trabalhando com 
  - Java utilizando as tecnologias JAVA EE, REST com Rest Easy, JSoup, JavaFX.
- - Javascript utilizando AngularJS, Angular, JQuery e projetos pessoais utilizando React e React Native (Vai lá olhe meus repositórios).
+ - Javascript utilizando AngularJS, Angular, JQuery e projetos pessoais utilizando React e React Native, dê uma olhadinha nos meus repositórios.
  - PHP trabalhando desenvolvendo temas e plugins para WordPress
- - HTML e CSS como desenvolvedor web isso tem que ser trivial.
+ - HTML e CSS como desenvolvedor web isso é trivial.
  
  ## Alem dos citados acima sigo estudando📚 e me aprimorando com:
   - 👶Kotlin: estudando e me aperfeiçoando, um dia esse aqui vai ser o novo Java.
