@@ -18,4 +18,4 @@ Sigo progredindo com meus estudos com intuito de trabalhar na área de DataScien
   - 👶Kotlin: estudando e me aperfeiçoando, um dia esse aqui vai ser o novo Java.
   - 👨‍🏫Python: primeira linguagem com que tive contato e hoje é referência em DataScienc como não se apaixonar?
   - 👨‍🎨JavaScript: sempre estudando e me aperfeiçoando nos frameworks da semana.
-  - 👨‍🦳PHP: A internet respira PHP podem até falar mal, mas esse carinha aqui sustenta boa parte da internet.
+  - 👨‍🦳PHP: A internet respira PHP podem até falar mal, mas esse carinha aqui sustenta boa parte da web.
