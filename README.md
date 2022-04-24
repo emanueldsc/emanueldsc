@@ -2,9 +2,9 @@
 
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/emanueldsc">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="500em" style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&langs_count=10"/>
+  <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&langs_count=10"/>
 </div>
   
 
