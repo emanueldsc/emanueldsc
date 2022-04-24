@@ -4,9 +4,11 @@
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="500em" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&langs_count=10"/>
+  <img height="500em" style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&langs_count=10"/>
 </div>
   
+
+<div style="clear: both;">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/emanueldsc)
 [![Github Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanueldouglas/)
