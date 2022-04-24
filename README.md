@@ -1,18 +1,11 @@
 # Saldações eu sou Emanuel Douglas
 
-<div style="display: flex;">
 
-<div style="flex-grow: 1;">
+<link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css" media="screen" />
+
   [![Emanuel Douglas](https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-<div style="flex-grow: 1;">
  [![Linguagens mais usadas / Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&   custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-</div>
-
-
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/emanueldsc)
@@ -20,17 +13,13 @@
 [![Github Badge](https://img.shields.io/badge/-email-db4a39?style=flat-square&logo=gmail&logoColor=white)](mailto:emanuel.douglas.sc@gmail.com)
 
 
-Sou estudante de computação tenho afinidade com tecnologias webs, javascript, php etc. 
-Sigo progredindo com meus estudos com intuito de trabalhar na área de DataScienc com análise preditiva e inteligência artificial.
+<div class="w3-container">
 
-## Já tive esperiência trabalhando com 
- - Java utilizando as tecnologias JAVA EE, REST com Rest Easy, JSoup, JavaFX.
- - Javascript utilizando AngularJS, Angular, JQuery e projetos pessoais utilizando React e React Native, dê uma olhadinha nos meus repositórios.
- - PHP trabalhando desenvolvendo temas e plugins para WordPress
- - HTML e CSS como desenvolvedor web isso é trivial.
- 
- ## Alem dos citados acima sigo estudando📚 e me aprimorando com:
-  - 👶Kotlin: estudando e me aperfeiçoando, um dia esse aqui vai ser o novo Java.
-  - 👨‍🏫Python: primeira linguagem com que tive contato e hoje é referência em DataScienc como não se apaixonar?
-  - 👨‍🎨JavaScript: sempre estudando e me aperfeiçoando nos frameworks da semana.
-  - 👨‍🦳PHP: A internet respira PHP podem até falar mal, mas esse carinha aqui sustenta boa parte da web.
+  <i class="devicon-typescript-plain colored"></i>
+
+</div>
+          
+
+
+Sou estudante de computação tenho afinidade com tecnologias web, Javascript, Typescript, Java, Kotlin, PHP etc. 
+Sigo progredindo com meus estudos com intuito de trabalhar em minha própria em presa disponibilisando soluções inteligêntes bem humoradas.
