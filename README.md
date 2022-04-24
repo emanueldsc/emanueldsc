@@ -1,16 +1,19 @@
 # Saldações eu sou Emanuel Douglas
 
-<div style="display:flex;">
+<div style="display: flex;">
 
-[![Emanuel Douglas](https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="flex-grow: 1;">
+  [![Emanuel Douglas](https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Emanuel Douglas](https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="flex-grow: 1;">
+ [![Linguagens mais usadas / Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&   custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
- 
 </div>
 
 
-[![Linguagens mais usadas / Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/emanueldsc)
 [![Github Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanueldouglas/)
