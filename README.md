@@ -1,6 +1,7 @@
 # Saldações eu sou Emanuel Douglas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueldsc)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/emanueldsc)
 [![Github Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanueldouglas/)
