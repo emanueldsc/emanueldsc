@@ -2,13 +2,13 @@
 
 
 <div>
-<!--  <a href="https://github.com/emanueldsc">Emanuel Douglas</a> -->
+<a href="https://github.com/emanueldsc">
 
 <img  height="250em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&langs_count=10"/>
 
-	
+</a>
 </div>
   
 
@@ -37,6 +37,6 @@
 </div>
   
 <br>
-Sou estudante de computação tenho afinidade com tecnologias web, Javascript, Typescript, Java, Kotlin, PHP etc. 
+Estudante de computação com afinidade com tecnologias web, Javascript, Typescript, Java, Kotlin, PHP etc. 
 Sigo progredindo com meus estudos com intuito de trabalhar em minha própria em presa disponibilisando soluções inteligêntes bem humoradas.
 
