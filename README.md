@@ -11,8 +11,8 @@
 
 <br>
 
-<img height="152em" src="https://github-readme-streak-stats.herokuapp.com/?user=emanueldsc&show_icons=true&locale=en&layout=compact&line_height=1&include_all_commits=true"/>
-<img height="152em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldsc&include_all_commits=true"/>
+<img height="138em" src="https://github-readme-streak-stats.herokuapp.com/?user=emanueldsc&show_icons=true&locale=en&layout=compact&line_height=1&include_all_commits=true"/>
+<img height="138em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldsc&include_all_commits=true"/>
 
 </div>
 
