@@ -51,4 +51,3 @@
 <br>
 Estudante de computação com afinidade com tecnologias web, Javascript, Typescript, Java, Kotlin, PHP etc. 
 Sigo progredindo com meus estudos com intuito de trabalhar em minha própria em presa disponibilisando soluções inteligêntes bem humoradas.
-
