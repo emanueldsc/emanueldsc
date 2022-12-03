@@ -4,13 +4,13 @@
 <div>
 <a href="https://github.com/emanueldsc">
 
-<table>
+<table style="border:none;">
 
-  <tr>
-    <td>
+  <tr style="border:none;">
+    <td style="border:none; vertical-align: top">
       <img  height="250em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
     </td>
-    <td>
+    <td style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&langs_count=10"/>
     </td>
   </tr>
