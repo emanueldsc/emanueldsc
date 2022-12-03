@@ -45,6 +45,10 @@
 </div>
   
 <br>
-Estudante de computação com afinidade com tecnologias web, Javascript, Typescript, Java, Kotlin, PHP etc. 
-Sigo progredindo com meus estudos com intuito de trabalhar em minha própria em presa disponibilisando soluções inteligêntes bem humoradas.
 
+Hello! 
+
+My name is Emanuel!
+  
+I'm Developer full stack with focused on Java, Angular, React and Vue technologies.
+I have been working with software development since 2014, starting professionally in the Java world when I was studying mathematics. Since then I've been through several companies, working with frontend, backend and mobile.
