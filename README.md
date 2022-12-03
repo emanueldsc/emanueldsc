@@ -6,11 +6,13 @@
 
 <div align="left">
 
-<img height="260em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&&include_all_commits=true&count_private=true&&langs_count=10"/>
-<br>
 <img height="152em" src="https://github-readme-streak-stats.herokuapp.com/?user=emanueldsc&show_icons=true&locale=en&layout=compact&line_height=1&include_all_commits=true"/>
 <img height="152em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldsc&include_all_commits=true"/>
+
+  <br>
+  
+<img height="260em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&&include_all_commits=true&count_private=true&&langs_count=10"/>
 
 </div>
 
