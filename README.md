@@ -4,21 +4,15 @@
 <div>
 <a href="https://github.com/emanueldsc">
 
-<table style="border:none;">
+<div align="left">
 
-  <tr style="border:none;">
-    <td style="border:none; vertical-align: top">
-      <img  height="250em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
-    </td>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&langs_count=10"/>
-    </td>
-  </tr>
-  
-</table>
+<img height="260em" src="https://github-readme-stats.vercel.app/api?username=emanueldsc&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsc&&include_all_commits=true&count_private=true&&langs_count=10"/>
+<br>
+<img height="152em" src="https://github-readme-streak-stats.herokuapp.com/?user=emanueldsc&show_icons=true&locale=en&layout=compact&line_height=1&include_all_commits=true"/>
+<img height="152em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldsc&include_all_commits=true"/>
 
-
-
+</div>
 
 </a>
 </div>
@@ -51,3 +45,4 @@
 <br>
 Estudante de computação com afinidade com tecnologias web, Javascript, Typescript, Java, Kotlin, PHP etc. 
 Sigo progredindo com meus estudos com intuito de trabalhar em minha própria em presa disponibilisando soluções inteligêntes bem humoradas.
+
